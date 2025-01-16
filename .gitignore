@@ -1,1 +1,44 @@
-/Debug/
+# Build output directories
+Debug/
+Release/
+
+# Eclipse/STM32CubeIDE-specific files
+.settings/
+.cproject
+.project
+*.launch
+
+# Generated binary files
+*.bin
+*.hex
+*.elf
+*.map
+*.srec
+*.lst
+*.log
+
+# Temporary files
+*.swp
+*.lock
+*.tmp
+
+# Backup files
+*.bak
+*.orig
+
+# GCC/Make build files
+build/
+*.d
+*.o
+
+# Object files
+*.obj
+*.a
+
+# IDE-specific files (optional, if shared development)
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
