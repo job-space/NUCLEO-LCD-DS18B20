@@ -1,3 +1,10 @@
+<img src="images/stm32.jpg" alt="Alt text" width="400" />
+<img src="images/stm32_0.jpg" alt="Alt text" width="400" />
+<img src="images/connection_diagram.jpg" alt="Alt text" width="400" />
+<video src="images/demonstration_video.mp4" width="400" controls>
+    Your browser does not support the video tag.
+</video>
+
 # Temperature Display on LCD 2004 I2C Using DS18B20 and NUCLEO-F411RE
 
 This project demonstrates how to read temperature data from a DS18B20 sensor and display it on an LCD 2004 using the I2C protocol. The project is implemented on the **NUCLEO-F411RE** microcontroller.
