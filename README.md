@@ -1,6 +1,9 @@
 <img src="images/stm32.jpg" alt="Alt text" width="400" />
 <img src="images/stm32_0.jpg" alt="Alt text" width="400" />
 <img src="images/connection_diagram.jpg" alt="Alt text" width="400" />
+
+<img src="images/demo_01.png" alt="Alt text" width="400" />
+<img src="images/demo_02.png" alt="Alt text" width="400" />
   
 
 # Temperature Display on LCD 2004 I2C Using DS18B20 and NUCLEO-F411RE
